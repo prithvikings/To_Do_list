@@ -1,4 +1,4 @@
-#To Do List
+## To Do List
 
 A simple To do list project to demonstrate two-way binding in React, completed in about 15 minutes. React Toastify is used to show success and delete messages.
 
