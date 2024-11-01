@@ -1,8 +1,34 @@
-# React + Vite
+#To Do List
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple To do list project to demonstrate two-way binding in React, completed in about 15 minutes. React Toastify is used to show success and delete messages.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Overview](#overview)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [License](#license)
+
+## Overview
+
+This project is a quick implementation designed to revise basic concepts of two-way binding in React. It includes success and delete notifications using React Toastify, making the project user-friendly and interactive.
+
+## Features
+
+- **Two-Way Binding**: A simple demo of two-way data binding in React.
+- **Notifications**: Success and delete messages via React Toastify.
+- **Fast Setup**: Minimal setup and configuration, ideal for quick learning and reference.
+
+## Technologies Used
+
+- **React**: For building the UI and handling two-way binding.
+- **React Toastify**: For displaying toast notifications.
+
+## Getting Started
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/prithvikings/To_Do_list.git
+   cd your-To_Do_list
